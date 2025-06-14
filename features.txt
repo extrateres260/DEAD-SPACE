@@ -1,0 +1,19 @@
+Add a scoring system
+
+Implement multiple lives and respawning
+
+strikes from enemies
+
+Add acceleration to the player movement
+
+Make the objects wrap around the screen instead of disappearing
+
+Add a background image
+
+Create different weapon types
+
+Add a shield power-up
+
+Add a speed power-up
+
+Add bombs that can be dropped
